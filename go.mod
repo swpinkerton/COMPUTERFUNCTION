@@ -1,0 +1,3 @@
+module COMPUTERFUNCTION
+
+go 1.20
